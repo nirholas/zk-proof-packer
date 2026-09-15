@@ -1,0 +1,11 @@
+{
+  "slug": "zk-proof-packer",
+  "name": "ZK Proof Packer",
+  "kind": "crypto",
+  "description": "Size ZK proof bytes, public inputs, and instructions before building a v1 transaction.",
+  "chain": "Solana",
+  "transactionVersion": 1,
+  "maxTransactionBytes": 4096,
+  "legacyTransactionBytes": 1232,
+  "status": "functional-prototype"
+}
