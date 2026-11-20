@@ -8,7 +8,7 @@ Size ZK proof bytes, public inputs, and instructions before building a v1 transa
 
 - Source: https://github.com/nirholas/zk-proof-packer
 - Primary language: HTML
-- License: Other (see the LICENSE file)
+- License: MIT (see the LICENSE file)
 
 ## Repository layout
 
